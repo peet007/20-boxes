@@ -1,0 +1,22 @@
+.container {
+    list-style-type: none;
+    border-style: bold;
+    border-color: dodgerblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 650px;
+    height: 100px;
+    padding: 0px;
+}
+
+.item {
+    background: dodgerblue;
+    width: 50px;
+    height: 50px;
+    margin-right: 15;
+  }
+
+.container2 {
+    list-style-type: none;
+}
